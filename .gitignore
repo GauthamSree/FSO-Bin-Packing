@@ -1,0 +1,14 @@
+.DS_STORE
+__pycache__/
+
+# Data folder
+data/
+
+# Testing
+fso_old.py
+debug.log
+result.py
+Result*.txt
+combined*.csv
+data_*.csv
+printgraph.ipynb
